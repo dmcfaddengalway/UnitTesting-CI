@@ -18,7 +18,7 @@ describe("app", function() {
 
         it("sayHello should return hello", function() {
             //let result = app.sayHello();
-            assert.equal(sayHelloResult, "hello");
+            assert.equal(sayHelloResult, "hellor");
         });
 
         it("sayHello should return a string", function() {
