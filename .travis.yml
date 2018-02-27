@@ -6,4 +6,4 @@ branches:
         - gh-pages
         - /.*/
 script:
-    - appTest.js
+    - test
